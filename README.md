@@ -53,4 +53,4 @@ _Screenshots to be added:_
 ---
 
 ## Author
-Labarron Kennedy
+Labaron Kennedy
